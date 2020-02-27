@@ -129,7 +129,14 @@ function loadStatsPage() {
 
 					After setting all of the anchor tags, update the innerHTML of the dropdown menu.
 					As a note, the id for the dropdown menu is player_selector.
+*/
 
+function loadPlayersPage() {
+
+}
+
+
+/*
 		switchPlayers(playerNum) method:
 			parameters:
 				playerNum - The index of the football player in the players array.
